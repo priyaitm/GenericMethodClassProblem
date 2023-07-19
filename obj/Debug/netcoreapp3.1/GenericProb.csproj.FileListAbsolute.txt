@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\PositiveNum\GenericProb\bin\Debug\netcoreapp3.1\GenericProb.exe
+C:\Users\DELL\source\repos\PositiveNum\GenericProb\bin\Debug\netcoreapp3.1\GenericProb.deps.json
+C:\Users\DELL\source\repos\PositiveNum\GenericProb\bin\Debug\netcoreapp3.1\GenericProb.runtimeconfig.json
+C:\Users\DELL\source\repos\PositiveNum\GenericProb\bin\Debug\netcoreapp3.1\GenericProb.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\PositiveNum\GenericProb\bin\Debug\netcoreapp3.1\GenericProb.dll
+C:\Users\DELL\source\repos\PositiveNum\GenericProb\bin\Debug\netcoreapp3.1\GenericProb.pdb
+C:\Users\DELL\source\repos\PositiveNum\GenericProb\obj\Debug\netcoreapp3.1\GenericProb.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\PositiveNum\GenericProb\obj\Debug\netcoreapp3.1\GenericProb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\PositiveNum\GenericProb\obj\Debug\netcoreapp3.1\GenericProb.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\PositiveNum\GenericProb\obj\Debug\netcoreapp3.1\GenericProb.AssemblyInfo.cs
+C:\Users\DELL\source\repos\PositiveNum\GenericProb\obj\Debug\netcoreapp3.1\GenericProb.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\PositiveNum\GenericProb\obj\Debug\netcoreapp3.1\GenericProb.dll
+C:\Users\DELL\source\repos\PositiveNum\GenericProb\obj\Debug\netcoreapp3.1\GenericProb.pdb
+C:\Users\DELL\source\repos\PositiveNum\GenericProb\obj\Debug\netcoreapp3.1\GenericProb.genruntimeconfig.cache
